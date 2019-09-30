@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Meli Challenge</string>
+
+    <!-- Main Screen -->
+    <string name="btn_login_examples">Login/Register</string>
+    <string name="btn_simple_get">Get</string>
+    <string name="btn_auth_get">Get (authenticated)</string>
+    <string name="btn_simple_post">Post</string>
+    <string name="btn_simple_put">Put</string>
+    <string name="btn_simple_delete">Delete</string>
+
+
+    <!-- Login Screen -->
+    <string name="user_id_text">User ID: %1$s</string>
+    <string name="access_token_text">Access Token: %1$s</string>
+    <string name="expires_in_text">Expires in: %1$s</string>
+
+    <!-- Menu -->
+    <string name="nombreMenu">nickname</string>
+    <string name="ciudadMenu">city</string>
+
+
+    <!-- Result Screen -->
+    <string name="result_title">Result</string>
+    <string name="result_code">Code: %1$s</string>
+    <string name="result_content">Content: %1$s</string>
+
+    <!-- Declare the proper app identifier for this application -->
+    <string name="meli_app_id">7895674329598463</string>
+
+    <!-- Declare the Redirect URI requested by the Meli SDK -->
+    <string name="meli_redirect_uri">https://www.mobilesdkpoc.com</string>
+    <string name="title_activity_main">Mercado Libre</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_item">ItemActivity</string>
+</resources>

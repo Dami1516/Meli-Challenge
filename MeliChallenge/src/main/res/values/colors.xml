@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/meli_yellow</color>
+    <color name="colorPrimaryDark">#F5D315</color>
+    <color name="colorAccent">#009EE0</color>
+
+    <color name="meli_yellow">#FEDC13</color>
+    <color name="window_background">#ffffff</color>
+
+    <color name="white_gray">#dcd9d9</color>
+</resources>
